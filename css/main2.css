@@ -4,7 +4,7 @@
   padding: 0%;
 }
 .header {
-  width: 1240px;
+  width: 1250px;
   margin: 0 auto;
   padding: 0 20px;
 }
@@ -20,9 +20,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  text-decoration: none;
   list-style-type: none;
-  padding-left: 658px;
+  padding-left: 630px;
 }
 .nav__text {
   margin-top: 6px;

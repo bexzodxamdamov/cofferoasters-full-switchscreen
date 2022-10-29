@@ -6,7 +6,7 @@
   padding: 0%;
 }
 .header {
-  width: 1240px;
+  width: 1250px;
   margin: 0 auto;
   padding: 0 20px;
 }
@@ -25,7 +25,7 @@
   align-items: center;
   text-decoration: none;
   list-style-type: none;
-  padding-left: 650px;
+  padding-left: 630px;
 }
 .nav-text {
   margin-top: 6px;
@@ -193,8 +193,6 @@
 .main-wrapper-4 {
   display: flex;
   align-items: center;
-}
-.wrapper-4-container {
 }
 .wrapper-4-ul {
   display: flex;
